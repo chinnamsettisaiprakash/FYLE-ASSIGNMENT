@@ -1,0 +1,25 @@
+{
+  "name": "codingchallenge",
+  "version": "1.0.0",
+  "description": "codingchallenge",
+  "main": "server.js",
+  "scripts": {
+    "start": "node service.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "connect": "^3.7.0",
+    "cookie-parser": "*",
+    "express": "*",
+    "https": "*",
+    "mongoose": "*",
+    "request": "*",
+    "url": "*"
+  },
+  "keywords": [
+    "npm",
+    "node"
+  ],
+  "author": "saiprakash chinnamsetty",
+  "license": "ISC"
+}
